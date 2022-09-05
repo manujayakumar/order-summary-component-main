@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    /* font-family: var(--FF); */
+    background-color: rgb(92, 92, 175);
+    line-height: 1.4;
+}
+h1{
+    font-size: 1.6rem;
+}
+p{
+    margin: 0.6rem 0;
+}
+li{
+    list-style-type: none;
+}
+button{
+    display: block;
+}
+
+.container{
+    background-color: antiquewhite;
+    width: 22.2rem;
+    overflow: hidden;
+}
+.container .heroInfo{
+    padding: 0 2.4rem;
+    text-align: center;
+    margin-top: 2.4rem;
+}
+
+.container .heroImg img{
+    width: 22.2rem;
+    height: auto;
+}
+
+
+
+.heroInfo .subscription_box{
+    margin: 1.7rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container .proceed{
+    padding: 0.55rem 2rem;
+
+}
