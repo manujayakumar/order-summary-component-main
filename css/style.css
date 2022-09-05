@@ -35,6 +35,9 @@ body{
     justify-content: center;
     min-height: 100vh;
     font-family: var(--FF); 
+    background-image: url('../images/pattern-background-mobile.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
     background-color: var(--primaryLightColor);
     line-height: 1.4;
     color: var(--neturalLightDarkColor);
@@ -42,7 +45,7 @@ body{
 a{
     color: var(--primaryDarkColor);
     font-weight: 900;
-    font-size: 0.75rem;/*  */
+    font-size: 0.75rem;
 }
 
 a:hover{
@@ -51,22 +54,22 @@ a:hover{
     
 }
 h1{
-    font-size: 1.25rem;/*  */
+    font-size: 1.25rem;
     color: var(--neturalDarkColor);
     font-weight: 900;
 }
 p{
     margin: 0.6rem 0;
-    font-size: 0.75rem; /*  */
+    font-size: 0.75rem; 
 }
 li{
     list-style-type: none;
     font-size: 0.75rem;
 }
 button{
-    display: block;/*  */
+    display: block;
     font-size: 0.7rem;
-    font-weight: 700;/*  */
+    font-weight: 700;
     cursor: pointer;
     border-radius: 0.5rem;
     border:none
@@ -75,19 +78,19 @@ button{
 
 .container{
     background-color: var(--neturalLightColor);
-    width: 16.6rem; /*  */
+    width: 16.6rem; 
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 23px 36px 55px 4px rgba(0,0,0,0.44);
 }
 .container .heroInfo{
-    padding: 1rem 2rem;/*  */
+    padding: 1rem 2rem;
     text-align: center;
     
 }
 
 .container .heroImg img{
-    width: 16.6rem; /*  */
+    width: 16.6rem; 
     height: auto;
 }
 
@@ -107,8 +110,8 @@ button{
     font-size: 0.75rem;
 }
 .heroInfo .subscription_box .logo img{
-    padding-right: 0.3rem;/*  */
-    width: 2.55rem;/*  */
+    padding-right: 0.3rem;
+    width: 2.55rem;
     height: auto;
 
 }
@@ -119,7 +122,7 @@ button{
 }
 
 .container .proceed{
-    padding: 0.55rem 2.92rem;/*  */  
+    padding: 0.55rem 2.92rem;
     background-color: var(--primaryDarkColor);
     color: var(--neturalLightColor);
 }
@@ -128,8 +131,8 @@ button{
     background-color: hsla(245, 75%, 52%, 0.753);
 }
 .container .cancel{
-    padding: 0.55rem 4.1rem;/*  */
-    margin: 0.5rem 0 0;/*  */
+    padding: 0.55rem 4.1rem;
+    margin: 0.5rem 0 0;
     color: var(--neturalLightDarkColor);
 }
 
@@ -141,6 +144,7 @@ button{
 
     body{
         font-size: 1rem;
+        background-image: url('../images/pattern-background-desktop.svg');
     }
     a{
         font-size: 1rem;
