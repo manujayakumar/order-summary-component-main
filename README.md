@@ -1,8 +1,8 @@
 # order-summary-component-main
  This is my solution to the order summary component main challenge (Figma design to Code) on Frontend Mentor.Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 ## Table of contents
-- [Overview]()
-  - [The challange]()
+- [Overview](https://github.com/manujayakumar/order-summary-component-main)
+  - [The challange](https://github.com/manujayakumar/order-summary-component-main)
   - [Screenshot](#Screenshot)
   - [Links](#Links)
 - My process
@@ -20,7 +20,7 @@ Mobile view:
 ![]()
 ### Links
 - Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Live Site at Vercel]()
+- Live Site URL: [Live Site at Vercel](https://order-summary-component-main-peach.vercel.app/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
