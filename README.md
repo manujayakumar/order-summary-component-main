@@ -13,11 +13,11 @@
 ### ScreenShot
 Desktop view:
 
-![]()
+![](https://github.com/manujayakumar/order-summary-component-main/blob/main/screenshot/desktop-view.PNG)
 
 Mobile view:
 
-![]()
+![](https://github.com/manujayakumar/order-summary-component-main/blob/main/screenshot/mobile-view.PNG)
 ### Links
 - Solution URL: [Frontend Mentor Solution]()
 - Live Site URL: [Live Site at Vercel](https://order-summary-component-main-peach.vercel.app/)
@@ -26,13 +26,15 @@ Mobile view:
 - Semantic HTML5 markup
 - Flexbox
 - Grid
+- Transform property
 - Responsive Design
 ### What I learned
-I have learn how to position div. center using both Flexbox, Grid, opacity with their property and make content responsive. 
+I have learn how to position div. center using both Flexbox, Grid with their property, used 2D transform property to move a bit above from its original position and make content responsive. 
 ### Useful resources
 - W3 Schools 
   - [Flex](https://www.w3schools.com/css/css3_flexbox.asp) 
-  - [Opacity]()
+  - [Grid](https://www.w3schools.com/css/css_grid.asp) 
+  - [Transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 ## Author
 - Github - [manujayakumar](https://github.com/manujayakumar)
 - Frontend Mentor - [manujayakumar](https://www.frontendmentor.io/profile/manujayakumar)
