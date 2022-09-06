@@ -1,5 +1,5 @@
 # order-summary-component-main
- This is my solution to the order summary component main challenge (Figma design to Code) on Frontend Mentor.Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+ This is my solution to the [order summary component main challenge (Figma design to Code) on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 ## Table of contents
 - [Overview](https://github.com/manujayakumar/order-summary-component-main)
   - [The challange](https://github.com/manujayakumar/order-summary-component-main)
