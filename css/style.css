@@ -78,7 +78,7 @@ button{
 
 .container{
     background-color: var(--neturalLightColor);
-    width: 16.6rem; 
+    max-width: 16.6rem; 
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 23px 36px 55px 4px rgba(0,0,0,0.44);
@@ -90,7 +90,7 @@ button{
 }
 
 .container .heroImg img{
-    width: 16.6rem; 
+    max-width: 16.6rem; 
     height: auto;
 }
 
@@ -162,14 +162,14 @@ button{
         font-size: 0.8rem;
     }
     .container{
-        width: 24.6rem;   
+        max-width: 24.6rem;   
     }
     .container .heroInfo{
         padding: 0 2.4rem;
         margin-top: 2.4rem;
     }
     .container .heroImg img{
-        width: 24.6rem;
+        max-width: 24.6rem;
 
     }
     .heroInfo .subscription_box .logo ul li{
