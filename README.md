@@ -19,7 +19,7 @@ Mobile view:
 
 ![](https://github.com/manujayakumar/order-summary-component-main/blob/main/screenshot/mobile-view.PNG)
 ### Links
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-component-bepPuqR1PM)
 - Live Site URL: [Live Site at Vercel](https://order-summary-component-main-peach.vercel.app/)
 ## My process
 ### Built with
